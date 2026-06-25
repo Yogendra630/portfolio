@@ -28,7 +28,7 @@ A fully responsive and interactive portfolio website showcasing my:
 - 📚 Education
 - 📞 Contact Information
 
-Built with modern web technologies and immersive 3D experiences.
+Built with modern web technologies and immersive  experiences.
 
 ---
 
