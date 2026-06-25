@@ -1,4 +1,4 @@
-# 🚀 3D Interactive Portfolio Website
+# 🚀  Interactive Portfolio Website
 
 <div align="center">
 
